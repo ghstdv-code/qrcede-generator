@@ -1,0 +1,1 @@
+# qrcede-generator
